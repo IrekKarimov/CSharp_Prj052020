@@ -1,0 +1,6 @@
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\obj\Debug\Viginer.csprojResolveAssemblyReference.cache
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\bin\Debug\Viginer.exe.config
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\bin\Debug\Viginer.exe
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\bin\Debug\Viginer.pdb
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\obj\Debug\Viginer.exe
+C:\Users\Irek\Documents\CSharp_Prj\Viginer\Viginer\obj\Debug\Viginer.pdb
